@@ -1,46 +1,45 @@
 <div align="center">
-  <h1>Ciao, sono MPSup3r <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /></h1>
-  <p><em>Sviluppatore | Problem Solver | Tech Enthusiast</em></p>
+  <h1>Ciao, sono Manuel Prati <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /></h1>
+  <p><em>Studente di Informatica @ ITS Torricelli | Web Developer | Design Enthusiast</em></p>
 </div>
 
-> "Trasformo idee complesse in codice pulito e architetture scalabili."
+> "Unisco la logica della programmazione all'estetica del design per creare esperienze digitali complete."
 
 <br>
 
 ### 🥷 Chi sono
 
-Appassionato di tecnologia con un focus sullo sviluppo di soluzioni moderne ed efficienti. Mi piace esplorare nuovi linguaggi, ottimizzare le performance e costruire software che abbia un impatto reale.
+Mi chiamo Prati Manuel e sono uno studente di informatica presso l'**ITS Torricelli di Milano**. Amo dare vita alle idee attraverso il codice: sviluppo solide basi in Java e creo interfacce web utilizzando HTML, CSS e JavaScript. Credo fermamente che un buon software non debba solo funzionare bene, ma anche essere bello e intuitivo; per questo motivo, nel tempo libero mi dedico allo studio del design.
 
-- 🔭 **Attualmente lavoro su:** [Inserisci il tuo progetto attuale, es. "un'app SaaS per il fitness"]
-- 🌱 **Sto imparando:** [Inserisci una tecnologia, es. Rust, Go, o Machine Learning]
-- 💡 **Interessi principali:** [es. Architetture Serverless, Web3, UI/UX Design]
-- 💬 **Chiedimi informazioni su:** [Le tue competenze forti, es. React, Python, Docker]
+- 🔭 **Attualmente lavoro su:** Concorso CMUI
+- 🌱 **Sto imparando:** JavaScript avanzato, Flutter, integrazione di API e Intelligenza Artificiale
+- 💡 **Interessi principali:** Web Development & Backend Development
 
 ---
 
 ### 🛠️ Arsenale Tecnologico
 
-Per mantenere il profilo pulito, ho organizzato il mio stack qui sotto. Clicca per espandere:
+Ho organizzato i linguaggi e gli strumenti che utilizzo quotidianamente o che sto imparando. Clicca per espandere:
 
 <details>
-  <summary><b>💻 Linguaggi & Framework</b></summary>
+  <summary><b>💻 Sviluppo & Programmazione</b></summary>
   <br>
   <div align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   </div>
 </details>
 
 <details>
-  <summary><b>🧰 Strumenti, Database & Cloud</b></summary>
+  <summary><b>🧰 Strumenti, Design & Altro</b></summary>
   <br>
   <div align="center">
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" alt="API" />
   </div>
 </details>
 
@@ -53,6 +52,14 @@ Per mantenere il profilo pulito, ho organizzato il mio stack qui sotto. Clicca p
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MPSup3r&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Streak" width="48%" />
 </div>
 
+---
+
+### 📬 Entriamo in contatto
+
+<div align="center">
+  <a href="mailto:inserisci_la_tua_email_qui@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/tuo-profilo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</div>
 ---
 
 ### 📬 Entriamo in contatto
