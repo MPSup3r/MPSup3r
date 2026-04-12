@@ -1,0 +1,39 @@
+name: Generate Profile Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: stats
+          options: "username=CosmoUniverso&show_icons=true&theme=tokyonight&hide_border=true"
+          path: profile/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top langs card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: top-langs
+          options: "username=CosmoUniverso&layout=compact&theme=tokyonight&hide_border=true"
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated cards
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update profile stats cards"
+          file_pattern: profile/*.svg
