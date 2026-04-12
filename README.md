@@ -30,14 +30,6 @@ I am a multifaceted professional who thrives at the intersection of logic, creat
 
 ---
 
-## 🔹 Collaboration
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Collaborative%20Development-often%20with%20**CosmoUniverso**%20and%20teammates-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Collaboration Badge" />
-</p>
-
----
-
 <div align="center">
 
 ## 🛠️ My Toolbox
