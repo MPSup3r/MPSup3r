@@ -1,16 +1,15 @@
 ## 🔹 About Me
 
-I'm a computer science student and developer focused on **AI systems**, **automation**, **cybersecurity**, and **software architecture**.
+I'm a **Fullstack Developer** and **Designer**. I love building complete, scalable web experiences while also focusing on the visual and creative side of digital content.
 
 I work on:
 
-- **AI orchestration & multi‑agent systems**
-- **Automation tools & intelligent workflows**
-- **Web applications & functional interfaces**
-- **Cybersecurity fundamentals (TryHackMe, HackTheBox)**
+- **Fullstack Development** (using a wide array of modern frameworks and languages)
+- **Digital Design & Video Editing** (Adobe Photoshop, DaVinci Resolve)
+- **Practical AI Integration** (Embedding AI into everyday tasks while keeping full control to maximize efficiency and profits)
 - **Collaborative development** (often with *mpsup3r* and other teammates)
 
-I enjoy designing **modular, scalable, and intelligent systems**.
+I enjoy designing **modular, visually stunning, and intelligent systems**.
 
 ---
 
@@ -32,21 +31,6 @@ I enjoy designing **modular, scalable, and intelligent systems**.
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
-      <br>GitHub
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
@@ -54,25 +38,18 @@ I enjoy designing **modular, scalable, and intelligent systems**.
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" />
-      <br>VSCode
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" />
-      <br>Eclipse
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" />
-      <br>SQLite
-    </td>
   </tr>
 </table>
 </div>
+
+---
+
+## 🔹 Favorite IDEs
+
+<p>
+  <img src="https://custom-icon-badges.demolab.com/badge/IntelliJ_IDEA-000000.svg?logo=intellijidea&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Antigravity-4B0082.svg?logo=rocket&logoColor=white" height="30" />
+</p>
 
 ---
 
@@ -135,13 +112,11 @@ I enjoy designing **modular, scalable, and intelligent systems**.
 
 ---
 
-## 🔹 Cybersecurity Tools
+## 🔹 Designing Tools
 
 <p>
-  <img src="https://custom-icon-badges.demolab.com/badge/Kali-557C94.svg?logo=kalilinux&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Wireshark-1679A7.svg?logo=wireshark&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/TryHackMe-212C42.svg?logo=tryhackme&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/HackTheBox-9FEF00.svg?logo=hackthebox&logoColor=black" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Photoshop-31A8FF.svg?logo=adobephotoshop&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/DaVinci_Resolve-530000.svg?logo=davinciresolve&logoColor=white" height="30" />
 </p>
 
 ---
