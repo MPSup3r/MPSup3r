@@ -154,7 +154,7 @@ I enjoy designing **modular, scalable, and intelligent systems**.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/profile/top-langs.svg" height="170" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/MPSup3r/MPSup3r/main/profile/top-langs.svg" height="170" alt="Top Languages" />
 </p>
 
 ---
