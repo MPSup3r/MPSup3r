@@ -1,136 +1,171 @@
-## 🔹 About Me
+<div align="center">
 
-I'm a **Fullstack Developer** and **Designer**. I love building complete, scalable web experiences while also focusing on the visual and creative side of digital content.
+# 🚀 Benvenuti nel mio Portfolio
 
-I work on:
+Hello! I'm a passionate creator focused on building intelligent, beautiful, and efficient digital solutions.
 
-- **Fullstack Development** (using a wide array of modern frameworks and languages)
-- **Digital Design & Video Editing** (Adobe Photoshop, DaVinci Resolve)
-- **Practical AI Integration** (Embedding AI into everyday tasks while keeping full control to maximize efficiency and profits)
-- **Collaborative development** (often with *mpsup3r* and other teammates)
-
-I enjoy designing **modular, visually stunning, and intelligent systems**.
-
----
-
-## 🔹 Favorite Tools
-
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-  </tr>
-</table>
 </div>
 
 ---
 
-## 🔹 Favorite IDEs
+## 🔹 About Me
 
-<p>
-  <img src="https://custom-icon-badges.demolab.com/badge/IntelliJ_IDEA-000000.svg?logo=intellijidea&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Antigravity-4B0082.svg?logo=rocket&logoColor=white" height="30" />
-</p>
+I am a multifaceted professional who thrives at the intersection of logic, creativity, and artificial intelligence. My work is driven by the goal of designing **modular, visually stunning, and highly optimized systems.**
 
----
+<br>
 
-## 🔹 Programming & Markup Languages
+<details open>
+<summary><b>My Core Pillars</b> (Click to collapse)</summary>
 
-<p>
-  <img src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/C++-00599C.svg?logo=cpp2&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/HTML-E34F26.svg?logo=html5&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/CSS-1572B6.svg?logo=css3&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Bash-121011.svg?logo=gnubash&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Markdown-000000.svg?logo=markdown&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/MySQL-00f.svg?logo=mysql&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/SQLite-07405E.svg?logo=sqlite&logoColor=white" height="30" />
-</p>
+* 🖥️ **Fullstack Developer**
+    * I build complete, scalable web experiences, from robust backends to fluid, functional interfaces. I love modern frameworks and clean architecture.
+* 🎨 **Digital Designer**
+    * I translate ideas into compelling visuals. I specialize in creative image manipulation with Photoshop and professional video post-production with DaVinci Resolve.
+* 🤖 **AI Innovator & Developer**
+    * I am dedicated to practical AI integration. I embed advanced AI models into everyday workflows and systems, maintaining full control while maximizing efficiency and profitability.
+
+</details>
+
+<br>
 
 ---
 
-## 🔹 Frameworks & Libraries
-
-<p>
-  <img src="https://custom-icon-badges.demolab.com/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/React-20232A.svg?logo=react&logoColor=61DAFB" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Node.js-43853D.svg?logo=nodedotjs&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Express.js-404d59.svg?logo=express&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Flask-000000.svg?logo=flask&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Pandas-150458.svg?logo=pandas&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/NumPy-013243.svg?logo=numpy&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Tailwind-38B2AC.svg?logo=tailwindcss&logoColor=white" height="30" />
-</p>
-
----
-
-## 🔹 Software & Tools
-
-<p>
-  <img src="https://custom-icon-badges.demolab.com/badge/Git-F05033.svg?logo=git&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/VSCode-007ACC.svg?logo=visualstudiocode&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Eclipse-2C2255.svg?logo=eclipseide&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Linux-FCC624.svg?logo=linux&logoColor=black" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED.svg?logo=docker&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Postman-FF6C37.svg?logo=postman&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Notion-000000.svg?logo=notion&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000.svg?logo=oracle&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Vercel-000000.svg?logo=vercel&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Render-00979D.svg?logo=render&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Redis-DC382D.svg?logo=redis&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/GitHub%20Actions-2671E5.svg?logo=githubactions&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Discord-5865F2.svg?logo=discord&logoColor=white" height="30" />
-</p>
-
----
-
-## 🔹 Designing Tools
-
-<p>
-  <img src="https://custom-icon-badges.demolab.com/badge/Photoshop-31A8FF.svg?logo=adobephotoshop&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/DaVinci_Resolve-530000.svg?logo=davinciresolve&logoColor=white" height="30" />
-</p>
-
----
-
-## 🔹 GitHub Stats
+## 🔹 Collaboration
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Collaborative%20Development-often%20with%20**CosmoUniverso**%20and%20teammates-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Collaboration Badge" />
+</p>
+
+---
+
+<div align="center">
+
+## 🛠️ My Toolbox
+
+A comprehensive look at the technologies, frameworks, and creative software I use daily to bring projects to life.
+
+</div>
+
+<br>
+
+<h3 align="center">🔹 Favorite Tools</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,html,css&perline=5" />
+  </a>
+</p>
+
+<br>
+
+<h3 align="center">🔹 Favorite IDEs</h3>
+
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/IntelliJ_IDEA-000000.svg?logo=intellijidea&logoColor=white&style=for-the-badge" height="35" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Antigravity-4B0082.svg?logo=rocket&logoColor=white&style=for-the-badge" height="35" />
+</p>
+
+<br>
+
+<h3 align="center">🔹 Programming & Markup Languages</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,js,typescript,html,css,bash,markdown&perline=9" />
+  </a>
+  <br>
+  <img src="https://custom-icon-badges.demolab.com/badge/MySQL-00758F.svg?logo=mysql&logoColor=white" height="25" />
+  <img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" height="25" />
+  <img src="https://custom-icon-badges.demolab.com/badge/SQLite-07405E.svg?logo=sqlite&logoColor=white" height="25" />
+</p>
+
+<br>
+
+<h3 align="center">🔹 Frameworks & Libraries</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,flask,tensorflow,pytorch,pandas,numpy,bootstrap,tailwind&perline=11" />
+  </a>
+</p>
+
+<br>
+
+<h3 align="center">🔹 Software & Tools</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,linux,docker,postman,notion,mongodb,redis,githubactions,discord&perline=12" />
+  </a>
+  <br>
+  <img src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000.svg?logo=oracle&logoColor=white" height="25" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Vercel-000000.svg?logo=vercel&logoColor=white" height="25" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Render-00979D.svg?logo=render&logoColor=white" height="25" />
+</p>
+
+<br>
+<hr width="50%" align="center">
+<br>
+
+<div align="center">
+
+## 🤖 The AI Stack
+
+The powerful AI models I leverage to automate, optimize, and innovate.
+
+</div>
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="110">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Google_Gemini_icon_2025.svg/960px-Google_Gemini_icon_2025.svg.png" width="60" height="60" alt="Gemini" />
+        <br><b>Gemini</b>
+      </td>
+      <td align="center" width="110">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Claude-ai-icon.svg/960px-Claude-ai-icon.svg.png" width="60" height="60" alt="Claude" />
+        <br><b>Claude</b>
+      </td>
+      <td align="center" width="110">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Deepseek-logo-icon.svg/960px-Deepseek-logo-icon.svg.png" width="60" height="60" alt="DeepSeek" />
+        <br><b>DeepSeek</b>
+      </td>
+      <td align="center" width="110">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Logo_Grok_AI_%28xAI%29_2025.png" width="60" height="60" alt="Grok" />
+        <br><b>Grok</b>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<br>
+<hr width="50%" align="center">
+<br>
+
+<div align="center">
+
+## 🎨 Creative Studio
+
+My essential tools for visual storytelling and professional design.
+
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,davinci&perline=2" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/MPSup3r/MPSup3r/main/profile/github-stats.svg" height="170" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=MPSup3r&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
-</p>
-
-<p align="center">
+  <br>
   <img src="https://raw.githubusercontent.com/MPSup3r/MPSup3r/main/profile/top-langs.svg" height="170" alt="Top Languages" />
-</p>
+</div>
 
 ---
 
